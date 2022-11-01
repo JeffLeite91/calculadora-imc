@@ -1,0 +1,62 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    text-align: justify;
+    text-align: center;        
+}
+
+div{
+    display: inline-block;
+    width: 500px;
+    height: 200px; 
+    margin-left: -5px; 
+       
+}
+
+header h2{
+    color: rgb(44, 130, 216);
+    font-weight: bold;
+}
+header p{
+    font-size: small;
+}
+
+div h1{
+    color: rgb(44, 130, 216) ;
+}
+
+.left-box{
+    background-color: rgba(181, 176, 176, 0.497); 
+    padding-top: 38px;
+    padding-bottom: 35px;    
+    
+}
+
+.right-box{
+    background-color: rgb(44, 130, 216);
+    color: white;
+    padding-bottom: 73px;
+    padding-top: 0px;    
+}
+
+div h3{
+    font-weight: bold;
+    color:rgb(44, 130, 216);
+}
+
+
+footer{
+    margin-top: 200px;
+    color: black;    
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+}
+
+footer strong:hover{
+    text-decoration: underline;
+    background-color: black;
+    color: white;
+}
+
